@@ -1,5 +1,5 @@
 # ImageCoder
-imageCoder is inspired by Pete Corey's [blog article](http://www.east5th.co/blog/2017/02/13/build-your-own-code-poster-with-elixir/) and [commit.io](www.commits.io)'s service. 
+imageCoder is inspired by Pete Corey's [blog article](http://www.east5th.co/blog/2017/02/13/build-your-own-code-poster-with-elixir/) and [commit.io](https://commits.io/)'s service. 
 
 Contrary to the article by Pete, this program uses python instead of elixir and is a lot faster. The speed advantage is mainly due to operating directly on png-images and a slightly different approach to parsing the text. While the former approach limits one color per character, imageCoder uses the colors of the image, thus it can have multiple colors per character.
 
