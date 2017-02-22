@@ -25,6 +25,8 @@ Pillow 2.2.1
 
 To install Pillow, use `sudo pip install Pillow`.
 
+Also, make sure that the program is executable with `chmod +x imageCoder.py`, use `python imageCoder.py -i ...` otherwise.
+
 
 # Collaboration
 
