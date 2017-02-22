@@ -48,8 +48,8 @@ To use imageCoder make sure you have the following dependencies installed
 
 ## Dependencies
 
-Python 2.7.12 
-Pillow 2.2.1
+- Python 2.7.12 
+- Pillow 2.2.1
 
 To install Pillow, use `sudo pip install Pillow`.
 
